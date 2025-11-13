@@ -4,6 +4,13 @@ NutriAI is an AI-powered mobile application that provides personalized health ri
 
 ---
 
+## 🎥 Demo Video
+🎥 Watch the demo video: [AI Drowning Detection System](https://www.youtube.com/shorts/u5Q9DUGZu08)  
+
+![Demo GIF](./nutri/assets/gif.gif)
+
+---
+
 ## 🧰 Prerequisites
 
 Before getting started, ensure the following tools are installed on your system:
